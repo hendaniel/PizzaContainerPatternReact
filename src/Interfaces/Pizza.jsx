@@ -1,5 +1,4 @@
 import React from "react";
-import pizzaGif from "../assets/pizza.gif";
 
 const Pizza = ({ values, handleInputChange, handleClear, pizzas }) => (
   <div>
